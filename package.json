@@ -2,6 +2,7 @@
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@11.5.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -44,8 +45,4 @@
     "tailwindcss": "^4.2.0",
     "typescript": "5.7.3"
   }
-  "name": "your-project-name",
-  "version": "1.0.0",
-  "packageManager": "pnpm@11.5.3",
-  "dependencies": 
 }
